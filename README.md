@@ -1,2 +1,2 @@
-# documnet
-documnet
+# document
+document
